@@ -1,2 +1,2 @@
-# Machine_Learning
-The repository contains basic experiments using machine learning algorithms.
+#Machine learning Homeworks
+The repository contains basic experiments using machine learning common algorithms.
