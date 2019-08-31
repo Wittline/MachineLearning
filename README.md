@@ -10,7 +10,7 @@ Hate me more :)
 
 ## Authors
 - Created by Ramses Alexander Coraspe Valdez
-- Created on May 17, 2019
+- Created on 2019
 
 ## License
 This project is licensed under the terms of the MIT license.
