@@ -5,6 +5,11 @@ The repository contains basic experiments using machine learning common algorith
    
 </details>
 
+<details open>   
+<summary> 2. <a href="https://wittline.github.io/MachineLearning/Linear%20Regression/Pages/Linear_regression.html">Feature scaling from scratch, Variables and Distance between points </a></summary>
+   
+</details>
+
 
 ## Contributing and Feedback
 Hate me more :)
