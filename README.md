@@ -6,7 +6,7 @@ The repository contains basic experiments using machine learning common algorith
 </details>
 
 <details open>   
-<summary> 2. <a href="https://wittline.github.io/MachineLearning/Feature%20scaling/Pages/Feature_scaling.html">Feature scaling from scratch, variables and distance between points</a></summary>
+<summary> 2. <a href="https://wittline.github.io/MachineLearning/Feature%20scaling/Pages/feature_scaling.html">Feature scaling from scratch, variables and distance between points</a></summary>
    
 </details>
 
