@@ -17,7 +17,7 @@ The repository contains basic experiments using machine learning common algorith
 
 
 ## Contributing and Feedback
-Help me to improve, you can insult me, criticize me, eulogy me or just copy my homework and bring it to your teacher as if it were yours :)
+Help me to improve, you can insult me, criticize me, eulogy me or just copy and paste my homework :)
 
 ## Authors
 - Created by Ramses Alexander Coraspe Valdez
