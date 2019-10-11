@@ -11,7 +11,12 @@ The repository contains basic experiments using machine learning common algorith
 </details>
 
 <details open>   
-<summary> 2. <a href="https://wittline.github.io/MachineLearning/Multiple%20linear%20regression/Pages/Multiple_linear_regression.html">Multiple Linear regression</a></summary>
+<summary> 3. <a href="https://wittline.github.io/MachineLearning/Multiple%20linear%20regression/Pages/Multiple_linear_regression.html">Multiple Linear regression</a></summary>
+   
+</details>
+
+<details open>   
+<summary> 4. <a href="https://wittline.github.io/MachineLearning/Logistic%20regression/Pages/Logistic_Regression.html">Logistic Regression</a></summary>
    
 </details>
 
