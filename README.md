@@ -16,9 +16,7 @@ The repository contains basic experiments using machine learning common algorith
 </details>
 
 <details open>   
-<summary> 4. <a href="https://wittline.github.io/MachineLearning/Logistic%20Regression/Pages/Logistic_Regression.html">Logistic Regression</a></summary>
-   
-   Default of credit card clients 
+<summary> 4. <a href="https://wittline.github.io/MachineLearning/Logistic%20Regression/Pages/Logistic_Regression.html">Logistic Regression</a></summary>   
    
 </details>
 
