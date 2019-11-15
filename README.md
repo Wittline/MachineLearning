@@ -21,7 +21,7 @@ The repository contains basic experiments using machine learning common algorith
 </details>
 
 <details open>   
-<summary> 4. <a href="https://wittline.github.io/MachineLearning/Default%20of%20credit%20card%20clients/Pages/Default_of_credit_card_clients.html">Default of credit card clients</a></summary>       
+<summary> 5. <a href="https://wittline.github.io/MachineLearning/Default%20of%20credit%20card%20clients/Pages/Default_of_credit_card_clients.html">Default of credit card clients</a></summary>       
    
 </details>
 
