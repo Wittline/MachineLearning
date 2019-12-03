@@ -22,7 +22,7 @@ The repository contains basic experiments using machine learning common algorith
 </details>
 
 <details open>   
-<summary> 5. <a href="https://wittline.github.io/MachineLearning/Algorithm%20comparison/Pages/Default_of_credit_card_clients.html">Algorithm comparison: Default of credit ard clients</a></summary>       
+<summary> 5. <a href="https://wittline.github.io/MachineLearning/Algorithm%20comparison/Pages/Default_of_credit_card_clients.html">Algorithm comparison: Default of credit card clients</a></summary>       
    
 </details>
 
