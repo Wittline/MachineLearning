@@ -22,10 +22,14 @@ The repository contains basic experiments using machine learning common algorith
 </details>
 
 <details open>   
-<summary> 5. <a href="https://wittline.github.io/MachineLearning/Default%20of%20credit%20card%20clients/Pages/Default_of_credit_card_clients.html">Algorithm comparison</a></summary>       
+<summary> 5. <a href="https://wittline.github.io/MachineLearning/Algorithm%20comparison/Pages/Default_of_credit_card_clients.html">Algorithm comparison: Default of credit ard clients</a></summary>       
    
 </details>
 
+<details open>   
+<summary> 6. <a href="https://wittline.github.io/MachineLearning/Algorithm%20comparison/Pages/Breast_cancer_wisconsin.html">Algorithm comparison: Breast cancer wisconsin</a></summary>       
+   
+</details>
 
 ## Contributing and Feedback
 Help me to improve, you can insult me, criticize me, eulogy me or just copy and paste my homework :)
