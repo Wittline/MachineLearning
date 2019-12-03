@@ -27,7 +27,7 @@ The repository contains basic experiments using machine learning common algorith
 </details>
 
 <details open>   
-<summary> 6. <a href="https://wittline.github.io/MachineLearning/Algorithm%20comparison/Pages/Breast_cancer_wisconsin.html">Algorithm comparison: Breast cancer wisconsin </a></summary>       
+<summary> 6. <a href="https://wittline.github.io/MachineLearning/Algorithm%20comparison/Pages/Breast_cancer_wisconsin.html">Algorithm comparison: Breast cancer wisconsin</a></summary>       
    
 </details>
 
