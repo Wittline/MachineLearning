@@ -31,6 +31,11 @@ The repository contains basic experiments using machine learning common algorith
    
 </details>
 
+<details open>   
+<summary> 7. <a href="https://wittline.github.io/MachineLearning/Algorithm%20comparison/Pages/Proyecto.pdf">Algorithm comparison: Final report</a></summary>       
+   
+</details>
+
 ## Contributing and Feedback
 Help me to improve, you can insult me, criticize me, eulogy me or just copy and paste my homework :)
 
