@@ -37,10 +37,10 @@ The repository contains basic experiments using machine learning common algorith
 </details>
 
 ## Contributing and Feedback
-Help me to improve, you can insult me, criticize me, eulogy me or just copy and paste my homework :)
+Any ideas or feedback about this repository?. Help me to improve it.
 
 ## Authors
-- Created by Ramses Alexander Coraspe Valdez
+- Created by <a href="https://www.linkedin.com/in/ramsescoraspe"><strong>Ramses Alexander Coraspe Valdez</strong></a>
 - Created on 2019
 
 ## License
