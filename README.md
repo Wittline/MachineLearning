@@ -1,6 +1,6 @@
-# Machine learning homeworks
+# Machine learning
 ## Ramses Alexander Coraspe Valdez
-The repository contains basic experiments using machine learning common algorithms.
+The repository contains basic experiments using machine learning algorithms.
 <details open>   
 <summary> 1. <a href="https://wittline.github.io/MachineLearning/Linear%20Regression/Pages/Linear_regression.html">Linear Regression</a></summary>
    
